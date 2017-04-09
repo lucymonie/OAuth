@@ -1,6 +1,6 @@
-# Authentication flow charts
+# Auth flow charts
 
-## Authentication by cookie
+## Authentication, set cookie
 Following is a diagram that shows the process by which a cookie can be set, authorising a user to access routes that are available to those logged in.
 
 ![cookie-auth](images/cookie-auth-flow.png)
